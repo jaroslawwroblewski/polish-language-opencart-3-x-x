@@ -101,7 +101,7 @@ $_['button_order_recurring']        = 'Pokaż powtarzające się';
 $_['button_buy']                    = 'Kup';
 
 // Tab
-$_['tab_affiliate']                 = 'Powiązania';
+$_['tab_affiliate']                 = 'Partnerstwo';
 $_['tab_address']                   = 'Adres';
 $_['tab_additional']                = 'Dodatkowe';
 $_['tab_admin']                     = 'Admin';

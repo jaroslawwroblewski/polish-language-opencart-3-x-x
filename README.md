@@ -5,6 +5,12 @@ Język Polski (Polish Language) dla sklepu internetowego OpenCart 3.x.x. Spolszc
 ## Aktualnie spolszczone:
 - admin/language/pl-PL/pl-Pl.php
 - catalog/language/pl-PL/pl-Pl.php
+- catalog/language/pl-PL/account/account.php
+- catalog/language/pl-PL/account/edit.php
+- catalog/language/pl-PL/account/login.php
+- catalog/language/pl-PL/account/logout.php
+- catalog/language/pl-PL/account/register.php
+- catalog/language/pl-PL/account/success.php
 - catalog/language/pl-PL/checkout/cart.php
 - catalog/language/pl-PL/checkout/checkout.php
 - catalog/language/pl-PL/checkout/failure.php
@@ -17,6 +23,9 @@ Język Polski (Polish Language) dla sklepu internetowego OpenCart 3.x.x. Spolszc
 - catalog/language/pl-PL/common/maintenance.php
 - catalog/language/pl-PL/common/menu.php
 - catalog/language/pl-PL/common/search.php
+- catalog/language/pl-PL/information/contact.php
+- catalog/language/pl-PL/information/information.php
+- catalog/language/pl-PL/information/sitemap.php
 - catalog/language/pl-PL/product/search.php
 - catalog/language/pl-PL/product/product.php
 - catalog/language/pl-PL/product/category.php
