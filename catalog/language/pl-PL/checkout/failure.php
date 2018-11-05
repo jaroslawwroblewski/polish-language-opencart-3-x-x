@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title'] = 'Failed Payment!';
+$_['heading_title'] = 'Nieudana płatność!';
 
 // Text
-$_['text_basket']   = 'Shopping Cart';
-$_['text_checkout'] = 'Checkout';
-$_['text_failure']  = 'Failed Payment';
-$_['text_message']  = '<p>There was a problem processing your payment and the order did not complete.</p>
+$_['text_basket']   = 'Koszyk';
+$_['text_checkout'] = 'Zamówienie';
+$_['text_failure']  = 'Nieudana płatność';
+$_['text_message']  = '<p>Podczas przetwarzania płatności wystąpił błąd, przez co proces zamówienia nie został zakończony.</p>
 
-<p>Possible reasons are:</p>
+<p>Prawdopodobne powody:</p>
 <ul>
-  <li>Insufficient funds</li>
-  <li>Verification failed</li>
+  <li>Niewystarczające środki</li>
+  <li>Nieprawidłowa autoryzacja</li>
 </ul>
 
-<p>Please try to order again using a different payment method.</p>
+<p>Spróbuj złożyć zamówienie ponownie korzystając z innej metodu płatności</p>
 
-<p>If the problem persists please <a href="%s">contact us</a> with the details of the order you are trying to place.</p>
+<p>Jeżeli problem będzie się powtarzał bądź nie wynika on z w/w powodów <a href="%s">skontaktuj się z nami</a>.</p>
 ';

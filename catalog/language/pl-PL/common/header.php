@@ -2,7 +2,7 @@
 // Text
 $_['text_home']          = 'Strona główna';
 $_['text_wishlist']      = '(%s) zapamiętanych produktów';
-$_['text_shopping_cart'] = 'Koszyk zakupów';
+$_['text_shopping_cart'] = 'Mój koszyk';
 $_['text_category']      = 'Kategorie';
 $_['text_account']       = 'Moje konto';
 $_['text_register']      = 'Zarejestruj się';
