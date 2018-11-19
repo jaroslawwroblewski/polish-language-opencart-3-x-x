@@ -6,7 +6,7 @@ $_['heading_title']            = 'Koszyk zakupów';
 $_['text_success']             = '<a href="%s">%s</a>został dodany do Twojego <a href="%s">Koszyka zakupów</a>!';
 $_['text_remove']              = 'Twój koszyk został zaktualizowany';
 $_['text_login']               = 'Uwaga: <a href="%s">Zaloguj się</a> lub <a href="%s">Zarejestruj</a>, aby zobaczyć ceny!';
-$_['text_items']               = '%s produkt(ów) - %s';
+$_['text_items']               = '%s - %s';
 $_['text_points']              = 'Punkty lojalnościowe: %s';
 $_['text_next']                = 'Co chciałbyś zrobić dalej?';
 $_['text_next_choice']         = 'Wybierz jeśli chcesz skorzystać z kodów rabatowych lub punktów lojalnościowych.';

@@ -19,6 +19,10 @@ $_['text_all_zones']        = 'Wszystkie strefy';
 $_['text_pagination']       = 'Pokaż od %d do %d z %d (%d Stron)';
 $_['text_loading']          = 'Ładowanie...';
 $_['text_no_results']       = 'Brak wyników!';
+$_['text_tax']              = 'Netto: ';
+$_['text_label_sale']       = '-%s&#37;';
+$_['text_label_sale1']      = 'Promocja';
+$_['text_label_new']        = 'Nowość';
 
 // Buttons
 $_['button_address_add']    = 'Dodaj adres';
