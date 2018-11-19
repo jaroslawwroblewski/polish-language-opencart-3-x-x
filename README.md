@@ -2,6 +2,26 @@
 
 Język Polski (Polish Language) dla sklepu internetowego OpenCart 3.x.x. Spolszczenie jest wykonane amatorsko na potrzeby prostego projektu. Za jego jakość, poprawność i kompletność nie ponoszę odpowiedzialności :)
 
+## Statusy magazynowe:
+- In Stock - W magazynie
+- Out Of Stock - Brak w magazynie
+- 2 - 3 Days - Dostępny w ciągu 2 - 3 dni
+- Pre-Order - Na zamówienie
+
+## Statusy zamówień:
+- Pending - Przyjęto
+- Processing - W trakcie realizacji
+- Shipped - Wysłano
+- Canceled - Anulowano
+- Complete - Zrealizowano
+- Denied - Odrzucono
+- Canceled Reversal - Unieważnienie zwrotu
+- Failed - Nie powiodło się
+- Refunded - Zwrot pieniędzy
+- Reversed - Odwrócone
+- Voided - Unieważniono
+- Chargeback - Zwrot pieniędzy (błąd płatności)
+
 ## Aktualnie spolszczone:
 - admin/language/pl-PL/pl-Pl.php
 - catalog/language/pl-PL/pl-Pl.php
